@@ -1,6 +1,6 @@
 cask "skald" do
-  version "0.4.0"
-  sha256 "32ae62201e7276a86c69b625691afbbd289ba6be15ed2e24ce3637ef2147104a"
+  version "0.4.1"
+  sha256 "2c1290b5946659cf252effc6bd4870fbd9199c94d0aaa706cf19b636fa1d6b15"
 
   url "https://github.com/ivshestakov/skald.app/releases/download/v#{version}/Skald-#{version}.dmg"
   name "Skald"
