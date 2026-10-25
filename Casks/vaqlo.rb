@@ -1,6 +1,6 @@
 cask "vaqlo" do
-  version "0.1.7"
-  sha256 "6089250bb53e5b06074f08413ab763b9bb1a2ac5d3fda60243eaed161d956b51"
+  version "0.1.8"
+  sha256 "91a88df8e5bcd817224be653975456b5cd37f42c944e32d1dc7080baa54e071c"
 
   url "https://github.com/ivshestakov/vaqlo.app/releases/download/v#{version}/Vaqlo-#{version}.dmg",
       verified: "github.com/ivshestakov/vaqlo.app/"
